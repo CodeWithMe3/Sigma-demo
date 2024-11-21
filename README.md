@@ -5,5 +5,4 @@ This is Demo for Git and Github class.
 Md Sibgatullaha haider
 
 # Teacher
-Sharadha Khapra
-
+Sharadha Khapra 
